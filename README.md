@@ -1,4 +1,5 @@
-xsnow-cordova
-=============
+npm install -g cordova
 
-playing with cordova...
+cordova platform add ios
+
+cordova emulate ios
